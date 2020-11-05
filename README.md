@@ -1,5 +1,5 @@
 # Index
-C++ dev course's exercises @ UniBg - Computer Engineering 2020/2021.
+Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/2021.
 
 ## exe_2210
 * [Prova](exe_2210/prova.cpp)
