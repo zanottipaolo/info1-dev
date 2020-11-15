@@ -11,3 +11,8 @@ Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/20
 * [Maxs](exe_2910/maxs.cpp)
 * [Sums](exe_2910/sums.cpp)
 * [Temperature converter](exe_2910/temperature_converter_Zanotti.cpp)
+
+## exe_1211
+* [Menu](exe_1211/consegna_menu_Zanotti.cpp)
+* [Quadrati (con la somma)](exe_1211/quadrati_positivi.cpp)
+* [Triangolo](exe_1211/triangolo.cpp)
