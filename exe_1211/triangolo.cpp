@@ -5,7 +5,7 @@
 using namespace std;
 
 struct punto{
-    double x,y;
+    float x,y;
 };
 
 int main(){
