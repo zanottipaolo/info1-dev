@@ -16,3 +16,7 @@ Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/20
 * [Menu](exe_1211/consegna_menu_Zanotti.cpp)
 * [Quadrati (con la somma)](exe_1211/quadrati_positivi.cpp)
 * [Triangolo](exe_1211/triangolo.cpp)
+
+## exe_1911
+* [Polinomio](exe_1911/polinomio.cpp)
+* [Moda](exe_1911/moda.cpp)
