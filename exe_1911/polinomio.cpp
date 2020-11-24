@@ -10,6 +10,7 @@ int main(){
     long int y = 0;
     double array_coef[GRADO_MASSIMO];
 
+    // Input validation
     do{
         cout << "Inserisci il grado del polinomio (0 <= grado <= " << GRADO_MASSIMO << "): "; cin >> grado;
     }while(grado < 0 || grado >= GRADO_MASSIMO);
@@ -21,10 +22,12 @@ int main(){
     cout << endl;
     cout << endl;
 
+    // Insert coeff
     for(int i=0; i<=grado; i++){
         cout << "Coeff " << i << " = "; cin >> array_coef[i]; 
     }
 
+    // Final value (coeff * x^i)
     for(int i=grado; i>=0; i--){
         y += pow(x, i) * array_coef[i];
     }
