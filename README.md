@@ -18,5 +18,6 @@ Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/20
 * [Triangolo](exe_1211/triangolo.cpp)
 
 ## exe_1911
+* [Funzioni](exe_1911/funzioni_menu_Zanotti.cpp)
 * [Polinomio](exe_1911/polinomio.cpp)
 * [Moda](exe_1911/moda.cpp)
