@@ -21,3 +21,8 @@ Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/20
 * [Funzioni](exe_1911/funzioni_menu_Zanotti.cpp)
 * [Polinomio](exe_1911/polinomio.cpp)
 * [Moda](exe_1911/moda.cpp)
+
+## exe_2611
+* [Palindromi](exe_2611/palindromi.cpp)
+* [Matrice simmetrica](exe_2611/matrice_simmetrica.cpp)
+* [Operazioni stringhe](exe_2611/menu_stringa_Zanotti.cpp)
