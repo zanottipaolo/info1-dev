@@ -26,3 +26,6 @@ Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/20
 * [Palindromi](exe_2611/palindromi.cpp)
 * [Matrice simmetrica](exe_2611/matrice_simmetrica.cpp)
 * [Operazioni stringhe](exe_2611/menu_stringa_Zanotti.cpp)
+
+## exe_0312
+* [Stringhe - Struct](exe_0312/struct_studente_Zanotti.cpp)
