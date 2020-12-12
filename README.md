@@ -29,3 +29,7 @@ Source code of C++ dev course's exercises @ UniBg - Computer Engineering 2020/20
 
 ## exe_0312
 * [Stringhe - Struct](exe_0312/struct_studente_Zanotti.cpp)
+
+## exe_1012
+* [Ricerca Dicotomica](exe_1012/ricerca_dicotomica.cpp)
+* [Albero binario](exe_1012/albero_binario_Zanotti.cpp)
