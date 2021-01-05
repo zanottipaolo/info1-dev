@@ -41,7 +41,7 @@ nodo *NuovoNodo(int dato){
     return temp;
 }
 
-// Add rand items
+// Add rand items (range: [1-100])
 void RiempiAlbero(nodo *&root, int MAX){
     srand((unsigned int)time(0));
     
